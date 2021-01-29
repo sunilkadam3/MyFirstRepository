@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is DE4A-A8FA
+
+ Directory of C:\Sunil\MyGIT
+
+01/29/2021  12:01 PM    <DIR>          .
+01/29/2021  12:01 PM    <DIR>          ..
+01/29/2021  12:01 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124,411,613,184 bytes free
